@@ -25,5 +25,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'mocha',    '~> 0.13.0'
   s.add_development_dependency 'minitest', '~> 4.3.1'
   s.add_development_dependency 'git',      '~> 1.2.5'
+  s.add_development_dependency 'timecop',  '~> 0.6.2'
 end
 
